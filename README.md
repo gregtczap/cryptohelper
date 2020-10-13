@@ -15,6 +15,7 @@ View the package API documentation on godoc.org: [https://godoc.org/github.com/g
 The library currently supports the following patterns:
 
 * Psuedo-random security code / pin number generation
+* Cryptographically secure random security code / pin number generation
 * Cryptographically secure key generation
   * AES 128-bit/192-bit/256-bit
   * HMAC SHA-256/SHA-512
